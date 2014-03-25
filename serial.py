@@ -13,7 +13,6 @@ def serial():
 	response = subprocess.call(command, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
 	if response == 0:
 		try:
-			#num_serial()
 			c = wmi.WMI(station)
 			for i in c.Win32_ComputerSystem():
 				compname = i.Name
