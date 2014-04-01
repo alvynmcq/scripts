@@ -1,0 +1,5 @@
+n:\visual studio 2010\Projects\SerialNumber\SerialNumber\bin\Debug\SerialNumber.exe
+n:\visual studio 2010\Projects\SerialNumber\SerialNumber\bin\Debug\SerialNumber.pdb
+n:\visual studio 2010\Projects\SerialNumber\SerialNumber\obj\x86\Debug\ResolveAssemblyReference.cache
+n:\visual studio 2010\Projects\SerialNumber\SerialNumber\obj\x86\Debug\SerialNumber.exe
+n:\visual studio 2010\Projects\SerialNumber\SerialNumber\obj\x86\Debug\SerialNumber.pdb

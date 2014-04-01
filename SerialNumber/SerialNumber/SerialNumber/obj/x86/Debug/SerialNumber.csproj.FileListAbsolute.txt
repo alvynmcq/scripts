@@ -1,5 +1,0 @@
-C:\Users\alvynmcq\Documents\Visual Studio 2013\Projects\SerialNumber\SerialNumber\SerialNumber\bin\Debug\SerialNumber.exe
-C:\Users\alvynmcq\Documents\Visual Studio 2013\Projects\SerialNumber\SerialNumber\SerialNumber\bin\Debug\SerialNumber.pdb
-C:\Users\alvynmcq\Documents\Visual Studio 2013\Projects\SerialNumber\SerialNumber\SerialNumber\obj\x86\Debug\SerialNumber.csprojResolveAssemblyReference.cache
-C:\Users\alvynmcq\Documents\Visual Studio 2013\Projects\SerialNumber\SerialNumber\SerialNumber\obj\x86\Debug\SerialNumber.exe
-C:\Users\alvynmcq\Documents\Visual Studio 2013\Projects\SerialNumber\SerialNumber\SerialNumber\obj\x86\Debug\SerialNumber.pdb
